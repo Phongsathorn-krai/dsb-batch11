@@ -8,3 +8,4 @@ My data science and analytics projects
 3. R programming - Pao Ying Chub
 4. Dashboard
 5. Linear Regression Model using caret
+https://www.markdownguide.org/basic-syntax/
