@@ -9,3 +9,9 @@ My data science and analytics projects
 4. Dashboard
 5. Linear Regression Model using caret
 https://www.markdownguide.org/basic-syntax/
+
+## Contact Me
+reach out to me at phongsathorn.krai@gmail.com
+
+## Image 
+![Deadpool](https://s.isanook.com/mv/0/ud/11/59151/cast_copy.jpg?ip/crop/w670h402/q80/jpg)
